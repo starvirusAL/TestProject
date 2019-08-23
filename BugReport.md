@@ -30,6 +30,6 @@ Summary (6/13)
 Project: 
 https://qa.db2dev.com/
 
-Author: Аlexey Kostenko
-p.s.
+Author: Аlexey Kostenko<br>
+<b>p.s.
 Ready to learn!

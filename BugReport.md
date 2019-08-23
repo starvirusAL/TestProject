@@ -27,10 +27,7 @@ Summary
 ![1](https://user-images.githubusercontent.com/31034017/63572542-c6538880-c58b-11e9-9510-64bb38e59248.PNG)
 
 
-Project
+Project: 
 https://qa.db2dev.com/
 
-
-
-
-Author Аlexey Kostenko
+Author: Аlexey Kostenko

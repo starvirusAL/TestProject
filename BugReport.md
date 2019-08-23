@@ -1,7 +1,7 @@
 BUG REPORT
 
 
-Summary 
+Summary (6/13)
 <p>1.Above is free space in the mobile version of the site</p>
 
 2.In the second block, an error in the spelling "most popular"<br>
@@ -31,3 +31,5 @@ Project:
 https://qa.db2dev.com/
 
 Author: Аlexey Kostenko
+p.s.
+Ready to learn!
